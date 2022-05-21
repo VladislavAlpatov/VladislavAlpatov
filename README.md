@@ -1,5 +1,5 @@
 ### Wellcome 👋
-Russian Developer. Founder of Little Software Studio.
+Russian Developer.
 
 ### Languages
 C/C++ and Python
