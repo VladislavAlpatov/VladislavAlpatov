@@ -2,5 +2,5 @@
 - Russian C++/Python developer 
 - 3 years of experience in Python
 - 2 years of experience in C++
-- Reverse engineering specialist 
+- Reverse engineer
 - Leading developer of AV
