@@ -5,4 +5,7 @@
 - Reverse engineer
 - Leading developer of AVhook.ru
 
+![CodeWars](https://www.codewars.com/users/NullifiedVlad/badges/large)
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladislavalpatov&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
