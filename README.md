@@ -1,8 +1,5 @@
 ### 😺 Wellcome to my GitHub profile
-- Russian C++/Python developer 
-- 4 years of experience in Python
-- 3 years of experience in C++
-
+I am russian C++/Python developer and also a digital artist, have 4 years experience in programming (Python/C++).
 
 Feel free to dm me if you have any questions about C++ or Web development - I'd love to help!
 However, please keep in mind:
