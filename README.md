@@ -1,7 +1,7 @@
 ### 😺 Wellcome to my GitHub profile
 I am russian C++/Python developer and also a digital artist, have 4 years experience in programming.
 
-Feel free to dm me if you have any questions about C++ or Web development - I'd love to help!
+Feel free to dm me if you have any questions about C++ - I'd love to help!
 However, please keep in mind:
 - I'm not able to assist with questions about software selling. Sorry in advance!
 - I'm not currently looking to join any new teams, so please avoid asking me about that.
