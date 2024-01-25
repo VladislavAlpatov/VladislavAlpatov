@@ -1,5 +1,5 @@
 ### 😺 Wellcome to my GitHub profile
-I am russian C++/Python developer and also a digital artist, have 4 years experience in programming.
+I am russian C++/Python developer and also a digital artist, have 5 years experience in programming.
 
 Feel free to dm me if you have any questions about C++ - I'd love to help!
 However, please keep in mind:
